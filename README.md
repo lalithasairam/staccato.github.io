@@ -1,5 +1,6 @@
 STellar ACtivity foreCAst for Optimal observations (STACCATO)
 -------------------------------------------------------------
+Currently under construction more to come in near future.
 
 License
 -------
